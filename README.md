@@ -17,3 +17,6 @@ step 5 - enter the leght that you want so for example. 3 letter long
 step 6 - press button to see results 
 
 step 7 - You have your password dont share :} 
+
+![ScreenShot](Asssets/pic1.png)
+![ScreenShot](Asssets/pic2.png)
